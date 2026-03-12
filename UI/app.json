@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Hornbill",
+    "slug": "hornbill",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "package": "com.hornbill.app"
+    }
+  }
+}
